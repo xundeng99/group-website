@@ -1,7 +1,7 @@
 ---
 name: Xun Deng
 description: Master Student
-avatar: /public/avatar/xun-deng.jpg
+avatar: /avatar/xun-deng.jpg
 email: xun.deng@mail.utoronto.ca
 #
 ---
